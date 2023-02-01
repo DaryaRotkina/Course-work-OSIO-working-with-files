@@ -1,0 +1,5 @@
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Debug\ProjectKur.Form1.resources
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Debug\ProjectKur.Form2.resources
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Debug\ProjectKur.vcxproj.GenerateResource.cache
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Debug\ProjectKur.exe
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Debug\ProjectKur.Form3.resources

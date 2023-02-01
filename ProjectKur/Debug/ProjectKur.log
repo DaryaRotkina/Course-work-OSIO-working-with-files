@@ -1,0 +1,31 @@
+﻿  Form1.cpp
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form3.h(519,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form3.h(541,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(468,40): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(665,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(666,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(668,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(678,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(679,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(930,5): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(959,5): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Form2.cpp
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form3.h(519,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form3.h(541,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(468,40): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(665,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(666,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(668,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(678,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(679,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(930,5): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form2.h(959,5): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Form3.cpp
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form3.h(519,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Form3.h(541,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectKur.vcxproj -> C:\Users\darya\Work\OSiO\Курсач\Proga1\ProjectKur\Debug\ProjectKur.exe
